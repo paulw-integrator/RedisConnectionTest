@@ -1,0 +1,68 @@
+
+
+Attempting to gather dependency information for package 'StackExchange.Redis.2.6.48' with respect to project 'RedisConnectionTest', targeting '.NETFramework,Version=v4.8'
+Gathering dependency information took 12.05 sec
+Attempting to resolve dependencies for package 'StackExchange.Redis.2.6.48' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'StackExchange.Redis.2.6.48'
+Resolved actions to install package 'StackExchange.Redis.2.6.48'
+  GET https://api.nuget.org/v3-flatcontainer/pipelines.sockets.unofficial/2.2.2/pipelines.sockets.unofficial.2.2.2.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/system.threading.channels/5.0.0/system.threading.channels.5.0.0.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/pipelines.sockets.unofficial/2.2.2/pipelines.sockets.unofficial.2.2.2.nupkg 26ms
+Installing Pipelines.Sockets.Unofficial 2.2.2.
+  OK https://api.nuget.org/v3-flatcontainer/system.threading.channels/5.0.0/system.threading.channels.5.0.0.nupkg 197ms
+Installing System.Threading.Channels 5.0.0.
+  GET https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.6.48/stackexchange.redis.2.6.48.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/stackexchange.redis/2.6.48/stackexchange.redis.2.6.48.nupkg 22ms
+Installing StackExchange.Redis 2.6.48.
+Adding package 'System.Buffers.4.5.1' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Buffers.4.5.1' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Buffers.4.5.1' to 'packages.config'
+Successfully installed 'System.Buffers 4.5.1' to RedisConnectionTest
+Adding package 'System.Diagnostics.PerformanceCounter.5.0.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Diagnostics.PerformanceCounter.5.0.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Diagnostics.PerformanceCounter.5.0.0' to 'packages.config'
+Successfully installed 'System.Diagnostics.PerformanceCounter 5.0.0' to RedisConnectionTest
+Adding package 'System.IO.Compression.4.3.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.IO.Compression.4.3.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.IO.Compression.4.3.0' to 'packages.config'
+Successfully installed 'System.IO.Compression 4.3.0' to RedisConnectionTest
+Adding package 'System.Numerics.Vectors.4.5.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Numerics.Vectors.4.5.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Numerics.Vectors.4.5.0' to 'packages.config'
+Successfully installed 'System.Numerics.Vectors 4.5.0' to RedisConnectionTest
+Adding package 'System.Runtime.CompilerServices.Unsafe.4.5.3' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Runtime.CompilerServices.Unsafe.4.5.3' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Runtime.CompilerServices.Unsafe.4.5.3' to 'packages.config'
+Successfully installed 'System.Runtime.CompilerServices.Unsafe 4.5.3' to RedisConnectionTest
+Adding package 'System.Memory.4.5.4' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Memory.4.5.4' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Memory.4.5.4' to 'packages.config'
+Successfully installed 'System.Memory 4.5.4' to RedisConnectionTest
+Adding package 'System.Threading.Tasks.Extensions.4.5.4' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Threading.Tasks.Extensions.4.5.4' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Threading.Tasks.Extensions.4.5.4' to 'packages.config'
+Successfully installed 'System.Threading.Tasks.Extensions 4.5.4' to RedisConnectionTest
+Adding package 'Microsoft.Bcl.AsyncInterfaces.5.0.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'Microsoft.Bcl.AsyncInterfaces.5.0.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'Microsoft.Bcl.AsyncInterfaces.5.0.0' to 'packages.config'
+Successfully installed 'Microsoft.Bcl.AsyncInterfaces 5.0.0' to RedisConnectionTest
+Adding package 'System.IO.Pipelines.5.0.1' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.IO.Pipelines.5.0.1' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.IO.Pipelines.5.0.1' to 'packages.config'
+Successfully installed 'System.IO.Pipelines 5.0.1' to RedisConnectionTest
+Adding package 'Pipelines.Sockets.Unofficial.2.2.2' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'Pipelines.Sockets.Unofficial.2.2.2' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'Pipelines.Sockets.Unofficial.2.2.2' to 'packages.config'
+Successfully installed 'Pipelines.Sockets.Unofficial 2.2.2' to RedisConnectionTest
+Adding package 'System.Threading.Channels.5.0.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Threading.Channels.5.0.0' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'System.Threading.Channels.5.0.0' to 'packages.config'
+Successfully installed 'System.Threading.Channels 5.0.0' to RedisConnectionTest
+Adding package 'StackExchange.Redis.2.6.48' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'StackExchange.Redis.2.6.48' to folder 'C:\Users\PAULW\source\repos\paulw-integrator\RedisConnectionTest\packages'
+Added package 'StackExchange.Redis.2.6.48' to 'packages.config'
+Successfully installed 'StackExchange.Redis 2.6.48' to RedisConnectionTest
+Executing nuget actions took 8.07 sec
+Time Elapsed: 00:00:20.8322032
+========== Finished ==========
